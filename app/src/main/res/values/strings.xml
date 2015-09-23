@@ -124,7 +124,7 @@
 
     <string name="humidity">Humidity</string>
     <!-- Humidity format CHAR LIMIT=25]-->
-    <string name="format_humidity"><xliff:g id="humidity">%1.0f</xliff:g> %%</string>
+    <string name="format_humidity" translatable="false"><xliff:g id="humidity">%1.0f</xliff:g> %%</string>
 
     <!-- SyncAdapter related -->
     <string name="sync_account_type">sunshine.example.com</string>
